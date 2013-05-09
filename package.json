@@ -1,0 +1,8 @@
+{
+  "name": "domino-class",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jasmine-node": "1.7.x"
+  },
+  "readme": "domino-class"
+}
