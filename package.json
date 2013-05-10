@@ -2,6 +2,7 @@
   "name": "domino-class",
   "version": "0.0.1",
   "devDependencies": {
+    "requirejs": "2.1.x",
     "jasmine-node": "1.7.x"
   },
   "readme": "domino-class"
