@@ -1,12 +1,20 @@
 {
   "name": "domino-class",
   "version": "0.0.1",
+  "description": "domino-class",  
   "devDependencies": {
     "requirejs": "2.1.x",
     "jasmine-node": "1.7.x"
   },
   "readme": "domino-class",
+  "author": "Subak Systems <info@subak.jp>",
   "main": "domino-class.js",
   "_id": "domino-class@0.0.1",
-  "description": "domino-class"
+  "scripts": {
+    "test": "jasmine-node --runWithRequireJs nodeSpec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/subak/domino-class.git"
+  }
 }
