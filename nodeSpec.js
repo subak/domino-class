@@ -4,4 +4,4 @@ requirejs.config({
   }
 });
 
-require(["00Spec"]);
+require(["spec/00Spec"]);
