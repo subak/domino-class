@@ -5,5 +5,6 @@
     "requirejs": "2.1.x",
     "jasmine-node": "1.7.x"
   },
-  "readme": "domino-class"
+  "readme": "domino-class",
+  "main": "domino-class.js"
 }
